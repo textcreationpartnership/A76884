@@ -1,0 +1,186 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A bloody masacre plotted by the papists intended first against the City of London, and consequently against the whole land. Discovered by the care of Alderman Towes, and some other godly and well affected citizens. With a relation of the great uprore on Munday last: first occasioned by some words betweene the late Bishop of Lincolne (now Archbishop of Yorke) and some London-apprentices, and secondly by Lunsford and his company: and the bloody skirmish at Westminster Abbey on Tuesday night. With the combustion then in the City, and shutting of the City gates. With the noble courage and valour, exprest by Sir Richard Wiseman at the same time.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1641</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A76884</idno>
+            <idno type="STC">Wing B3258</idno>
+            <idno type="STC">Thomason E181_9</idno>
+            <idno type="STC">ESTC R13530</idno>
+            <idno type="EEBO-CITATION">99859493</idno>
+            <idno type="PROQUEST">99859493</idno>
+            <idno type="VID">111578</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A76884)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 111578)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 32:E181[9])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A bloody masacre plotted by the papists intended first against the City of London, and consequently against the whole land. Discovered by the care of Alderman Towes, and some other godly and well affected citizens. With a relation of the great uprore on Munday last: first occasioned by some words betweene the late Bishop of Lincolne (now Archbishop of Yorke) and some London-apprentices, and secondly by Lunsford and his company: and the bloody skirmish at Westminster Abbey on Tuesday night. With the combustion then in the City, and shutting of the City gates. With the noble courage and valour, exprest by Sir Richard Wiseman at the same time.</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for M. R.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1641.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Lunsford, Thomas, --  Sir, 1610?-1653? --  Early works to 1800.</term>
+               <term>Williams, John, 1582-1650 --  Early works to 1800.</term>
+               <term>Wiseman, Richard, --  Sir, d. 1642 --  Early works to 1800.</term>
+               <term>London (England) --  History --  17th century --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Charles I, 1625-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-08</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-08</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:111578:1"/>
+            <pb facs="tcp:111578:1" rendition="simple:additions"/>
+            <p>A BLOODY MASACRE PLOTTED BY THE <hi>PAPISTS</hi> intended firſt againſt the City of London, and conſequently againſt the whole Land.</p>
+            <p>Diſcovered by the care of Alderman <hi>Towes,</hi> and ſome other godly and well affected <hi>Citizens.</hi>
+            </p>
+            <p>With a Relation of the great uprore on Munday laſt: Firſt occaſioned by ſome words betweene the late Biſhop of Lincolne (now Archbiſhop of <hi>Yorke</hi>) and ſome <hi>London-Apprentices</hi> and ſecondly by <hi>Lunsford</hi> and his Company.</p>
+            <p>And the bloody skirmiſh at Weſtminſter Abbey on Tueſday night.</p>
+            <p>With the combuſtion then in the <hi>City,</hi> and ſhutting of the <hi>City</hi> Gates.</p>
+            <p>With the Noble courage and valour, expreſt by Sir <hi>Richard Wiſeman</hi> at the ſame Time.</p>
+            <p>
+               <hi>LONDON:</hi> Printed for <hi>M.R.</hi> 1641.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:111578:2"/>
+            <pb n="1" facs="tcp:111578:2"/>
+            <head>A BLOODY PLOT IN<g ref="char:EOLhyphen"/>TENDED BY THE <hi>PAPISTS</hi> to maſſacre the City of London, and (conſequently) the whole Kingdome, &amp;c.</head>
+            <p>
+               <seg rend="decorInit">O</seg>N <hi>Friday</hi> night laſt, (being <hi>Chriſtmas Eve</hi>) a <hi>French</hi> man paſſed through the Watch, and being examined as the manner is, who went there; he anſwer<g ref="char:EOLhyphen"/>ed ſomething chubbedly: but being preſt upon the matter where he had been, he ſaid at Summerſet-Houſe. And being asked what he did there ſo late, he anſwered, that he had been at Maſſe: then being as ked what he did at Maſſe ſo late, he ſaid becauſe it was Chriſtmas Eve; to celebrate the Eve of Chriſtmas, which he ſaid, was a work of the night.</p>
+            <p>Then they demanded of him, if he had not been about ſome Popiſh plot againſt us; And he made anſwer peremptorily, That he had been about ſuch a plot as they ſhould hear further on before the Twelve dayes were expired. This man was heard to ſpeak thus by Alderman <hi>Towes,</hi> and others that
+<pb n="2" facs="tcp:111578:3"/>were then preſent; and was therefore committed to the <hi>Counter:</hi> and the next day being brought before the Lord Major, he was examined, and put in Bail to the Lord Major: upon which he was re<g ref="char:EOLhyphen"/>leaſed, till he be called for again to be further ex<g ref="char:EOLhyphen"/>amined.</p>
+            <p>There were alſo two Frenchmen coming to <hi>London</hi> by water, who did diſcourſe in <hi>French,</hi> now the water-man did undeſtand French, but took no notice of what they diſcourſed, but carried himſelf as if he did not underſtand any thing at all. Thus he rowed them along: and when he had landed his Fair, and taken his money, he tyed his boat to the ſtaires, and went after them, and cauſed them to be apprehended, and carried before a Juſtice: ſo they went before Sir <hi>John Lenton:</hi> To whom the water-man did teſtifie, that they did talk to this effect, that the Catholicks did intend to make Munday and Tueſday to be the bloodieſt dayes and nights in the City of London, that ever was in this place; upon this he ſhould have been commit<g ref="char:EOLhyphen"/>ted, but he ſent for Bail. And ſo upon ſecuritie for his forth coming, was diſcharged till be be againe called for.</p>
+            <p>There was alſo a letter ſent from a Gentleman in France to a Citizen (a friend of his in <hi>London</hi>) to this effect: That he would deſire him to make what ſpeed he could out of <hi>England,</hi> and eſpecially out of <hi>London,</hi> as he tendred his life: for he was ve<g ref="char:EOLhyphen"/>rily perſwaded by the rumours he heard in <hi>France,</hi> that before Twelft day, there would be bloody deſignes wrought in this kingdome of <hi>England</hi> by
+<pb n="3" facs="tcp:111578:3"/>the Papiſts, and eſpecially in the City of <hi>London,</hi> which place the Papiſts maligne moſt.</p>
+            <p>Now the City hath been the more diſtracted ſince the placing of Colonell <hi>Lunsford</hi> to be the Lieutenant of the Tower, which the City did con<g ref="char:EOLhyphen"/>ceive to be of dangerous conſequence; and that in theſe and divers other reſpects.
+<list>
+                  <item>1. Becauſe he is held to be a Papiſt.</item>
+                  <item>2. He hath been Colonell under the King of <hi>France.</hi>
+                  </item>
+                  <item>3. He is ſo deſperate a man, that to picke out one to run ine the mouth of a Cannon, or to perform ſome deſperate deſigne, h<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> is held to be the onely man in the whole kingdome.</item>
+                  <item>4. The Ordnance are placed againſt the City upon the Tower, and want nothing but onely mounting, which with help may be done in two or three houres; and on a ſudden (for ought we know) batter down our houſes over our heads ere we be aware.</item>
+                  <item>5. He hath been a ſhedder of blood in this Land.</item>
+                  <item>6. When the Lord Major that now is, was Shoriffe of Lon<g ref="char:EOLhyphen"/>don, he was his priſoner then in Newgate: beſides other priſons that he hath been in.</item>
+                  <item>7. He is ſo deboyſt a man, that he is generally reported to be as laſcivious even as Sir <hi>Iohn Suckling,</hi> or, &amp;c.</item>
+               </list>
+            </p>
+            <p>
+               <hi>Vpon the great and juſt complaint againſt him, it pleaſed his gracious Majeſtie to put him out again, and to put in one Sir Johnn Biroon, whom we hope is better affected<g ref="char:punc">▪</g>
+               </hi>
+            </p>
+            <p>ON Munday being Saint <hi>Johns</hi> day, there was a great uprore at Weſtminſter, cauſed by the aforeſaid <hi>Lunsford.</hi>
+            </p>
+            <p>About noon the ſaid Munday, the Archbiſhop of Yorke, the late Biſhop of Lincolne, paſſing to the Parliament Houſe, by many Apprentices of London; ſome of thoſe Apprentices expreſſed
+<pb n="4" facs="tcp:111578:4"/>themſelves, that their deſires was to have Biſhops removed, no Biſhops. At which the Archbiſhop was very, angry; and turning to wards them, ſeemed as if he would have ſtruck ſome of them. But they were not any thing daunted with him, but ſtood to the matter, yet offering him no abuſe, onely cry<g ref="char:EOLhyphen"/>ing, No Biſhops.</p>
+            <p>Then turned a Gentleman like man and drew his ſword, as if he would fall upon them, or to defend the Biſhop, leſt they ſhould have fallen upon him. The mean while the Prelate gat away. Now whilſt this Spark was vapouring with his blade, an honeſt man, fearing ſome mutiny might enſue herefrom, laid hands upon him, and with ſome other aid, he was orderly carried before the Houſe of <hi>Commons.</hi>
+            </p>
+            <p>About two or three houres after came Colonell <hi>Lunsford,</hi> and with him about 30. men more all with Swords and Rapiers, who came in through the great Gate at Weſtminſter Hall; and taking great notice of the Citizens Apprentices, and Say<g ref="char:EOLhyphen"/>lers, that were there paſſed by them quite through to the further doore, and ſome meanes being uſed for the ſhutting of the further doore, returned back again, as if they would have gone forth. But ha<g ref="char:EOLhyphen"/>ving paſſed all the people, they turned back on a ſudden, and all drew their ſwords and Rapiers, and fell upon the people with great violence. The peo<g ref="char:EOLhyphen"/>ple being for the moſt part unweaponed, fled be<g ref="char:EOLhyphen"/>fore them, and when they came to the further gate it was ſhut; and ſo they could not paſſe out that way, but were forced ſome to run into one Court, ſome into another: others came up ſtaires into the
+<pb n="5" facs="tcp:111578:4"/>Court of Requeſt, where was Sir <hi>Richard Wiſeman,</hi> who ſeeing this ſudden mutiny, and perceiving how it went, ſpake moſt bravely to animate them to return with ſuch weapons as they had. I will (quoth Sir <hi>Richard</hi>) ſpend my deareſt and beſt blood in defence of the Houſe of <hi>Commons,</hi> come (quoth he) fall on; There were Saylers that had good Trunchions in their hands, and Sir <hi>Richard</hi> with his Sword fell upon them as well as he could. But <hi>Sir Richard Wiſeman</hi> was ſore put to it, for hee did not onely hold play with two of them, but a<g ref="char:EOLhyphen"/>gaine the third alſo did run full at him with his Rapier: (but God prevented them) and Sir <hi>Richard</hi> with his ſword ſtrake at the others Rapier, and did make it flie in two peeces.</p>
+            <p>One of the Sailers was foyled with 4. or 5. of them at once having no other weapon, ſave only a trun<g ref="char:EOLhyphen"/>chion wherwith he quit himſel very ſtoutly aginſt them all.</p>
+            <p>And (ſuch was the Providence of Almighty God) by this time, thoſe <hi>Citizens</hi> and Apprentiſes (ha<g ref="char:EOLhyphen"/>ving no weapons about them, had brough downe Brick-battes in the lappes of there clokes, which they had pulled up in the Court of Requeſts, and with there thowing of the ſaid Brick-bates, did (immediatly) cauſe <hi>Lunſford,</hi> and his Company to Retreate, and forced them to flie: But ſome of them were raken and carried before the Houſe:</p>
+            <p>
+               <hi>Lunsford</hi> himſelf was ſain to wade above the deep<g ref="char:EOLhyphen"/>neſse of his bootes to take bore and ſo made an e<g ref="char:EOLhyphen"/>ſcape by water.</p>
+            <p>
+               <hi>Hereupon the City was again diſtracted, the Train. band
+<pb n="6" facs="tcp:111578:5"/>and Watch and Ward was raiſed, the Gates of the City were ſhut up and every man beſtird him ſelf, for his our defence.</hi>
+            </p>
+            <p>There were ſome 8. or 9. Citizens caried unto the Garchouſe by an Officer in Weſtmilſter, but he did foone (again) releaſe them.</p>
+            <p>On Tueſday being Childermas Day there was ſome Apprentiſes in the Abbey at. Weſtmin<g ref="char:EOLhyphen"/>ſter, upon whome certaine in the Abbey with ſome of the Biſhop of <hi>Yorke,</hi> (late Biſhop of <hi>Lin<g ref="char:EOLhyphen"/>coln</hi>) his Scollers or Attendants or ſome appoynted (as it ſeemes) for that deſigne.</p>
+            <p>About 5. of the clock at night they were ſhut into the Abbey as Priſoners: And what they have done with them, God knowes.</p>
+            <p>Sir Richard Wiſeman and M. <hi>Lilhorn</hi> and ſome others hearing of it, went to inquire after them and when they came to the Abbey: Thoſe within the Abbey ſhot at them, and ſome of them alſo came forth with naked ſwordes and after a cruell and a moſt Bucherly manner fell upon them, and haue wounded Sir Richard and M. <hi>Lilborne</hi> and divers others: and what the event will be, God knowes.</p>
+            <closer>
+               <signed>The Lord protect us, <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> AMEN</signed>
+            </closer>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
